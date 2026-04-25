@@ -86,6 +86,8 @@ src/
    /* /index.html 200
    ```
 5. Deploy!
+6. Deploy link:
+   https://lenslyy.vercel.app/
 
 ### Other Platforms
 
