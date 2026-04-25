@@ -32,8 +32,8 @@ An AI-powered web application that analyzes your face shape from a selfie and re
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/khalilcui/lensly.git
-cd lensly
+git clone https://github.com/khashirmehmood09-ui/lenslyy.git
+cd lenslyy
 ```
 
 2. Install dependencies:
